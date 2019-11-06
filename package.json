@@ -1,0 +1,25 @@
+{
+  "name": "TracieWalka",
+  "version": "1.0.0",
+  "description": "**I would like to make more money**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracielyn/savvy-coders-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracielyn/savvy-coders-practice/issues"
+  },
+  "homepage": "https://github.com/tracielyn/savvy-coders-practice#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1"
+  }
+}
