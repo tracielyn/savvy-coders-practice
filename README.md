@@ -14,8 +14,14 @@ _But I enjoy learning this_
 
 ~~but I'm NERVOUS!~~
 
-Things that interest me are:
+Things that interest me in this area are:
 
 - CSS
 - HTML
 - Scrum Master
+
+Other things I want to learn:
+
+1. Python
+2. Swift
+3. Kotlin
